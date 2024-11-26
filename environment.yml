@@ -1,0 +1,20 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - setuptools
+  - pip
+  - wheel
+  - anaconda-client
+  - anaconda-project
+  - anaconda-navigator
+  - conda
+  - conda-build
+  - conda-content-trust
+  - conda-pack
+  - conda-package-handling
+  - conda-package-streaming
+  - conda-token
+  - conda-verify
+prefix: /home/toomstar/anaconda3

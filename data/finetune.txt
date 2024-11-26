@@ -1,0 +1,17 @@
+(raw)(pp)(hex)(hex)(mix)<&|(raw)(comp)(hex)&|<&|(raw)(comp)(hex)&|(hex)(r)(r)(prod)
+(raw)(hex)<1[(prod)](r)1<&|(raw)&|(r)<2<&|(raw)&|<&|(raw)&|(hex)[(prod)](r)2<&|(raw)&|<&|(raw)&|(prod)
+(raw)(hex)<1[(prod)](r)1<&|(raw)&|(r)<2<&|(raw)&|(hex)<&|(raw)&|[(prod)](r)2<&|(raw)&|<&|(raw)&|(prod)
+(raw)(r)<&|(raw)&|(r)<&|(raw)&|<&|(raw)&|(prod)
+(raw)(comp)(mix)<1(hex)(hex)(r)(comp)(comp)(sep)<3[(splt)[(prod)](comp)1](tank)<2<&|(raw)(comp)&|[(v)(dist)[(prod)](prod)](sep)23
+(raw)(mix)<&|(raw)&|(hex)(r)(hex)(mix)<1(comp)(hex)(r)[(prod)](v)(hex)(sep)[(v)(sep)[(prod)](prod)](split)1(prod)
+(raw)(hex)<&|(raw)&|(r)[(hex)<&|(raw)&|(prod)(dist)<1<&|(raw)&|[(prod)](prod)](hex)<&|(raw)&|(splt)[(prod)](mix)<2(hex)<&|(raw)&2|(r)1n|(raw)(prod)
+(raw)(mix)<&|(raw)&|(comp)(hex)(r)[(prod)](hex)<&|(raw)&|[(prod)](r)[(comp)(r)[(hex)<&|(raw)&|[(prod)](v)(r)[(mix)<1<3(prod)](mix)<2<4(pp)(hex)<&|(raw)&|[(prod)](r)[(prod)](r)[(prod)](hex)<&|(raw)&|[(prod)](prod)](hex)<&|(raw)&|[(prod)](v)(r)12](v)(r)34
+(raw)(v)(C)(C)(v)(mix)<&|(raw)(v)(C)(C)(v)&|<&|(raw)(v)(C)(C)(v)&|(C)[(prod)](v)(r)[(C)(v)(prod)](v)[(v)](sep)[(v)(prod)](v)(prod)
+(raw)(comp)(hex)(comp)<3(mix)<1<2(hex)(r)(hex)(flash)[(v)(flash)[(dist)[(prod)](comp)1](comp)2](splt)3(prod)
+(raw)(comp)(mix)<2<&|(raw)(comp)&|(hex)(r)(hex)(flash)[(v)(flash)[(hex)(dist)[(prod)](prod)](prod)<1](splt)1(comp)2
+(raw)(mix)<&|(raw)&|(comp)[(prod)](hex)[(prod)](r)(hex)<&|(raw)&|[(prod)](dist)(dist)(prod)n|(prod)n|(prod)n|(prod)n|(prod)n|(prod)n|(prod)
+(raw)(mix)<&|(raw)&|(comp)[(prod)](mix)<2(hex)[(prod)](r)(hex)<&|(raw)&|[(prod)](sep)[(v)(mix)<1(dist)(dist)(prod)](splt)[(v)1](splt)2n|(prod)n|(prod)n|(prod)n|(prod)n|(prod)n|(prod)  
+(raw)(mix)<&|(raw)&|(comp)[(prod)](hex)[(prod)](r)(hex)<&|(raw)&|[(prod)](sep)[(v)(mix)<1<3(dist)(dist)(prod)](comp)[(prod)](r)[(hex)<&|(raw)&|[(prod)](sep)[(v)1](mix)<2(prod)](hex)<&|(raw)&|[(prod)](sep)2(v)3n|(prod)n|(prod)n|(prod)n|(prod)n|(prod)
+(raw)(comp)(mix)<&|(raw)(comp)&|(hex)(r)(hex)<1[(comp)(hex)(comp)(hex)(comp)(r)(dist)[(prod)](prod)](comp)(hex)(comp)1
+(raw)(mix)<1(r)[(splt)(mix)<2(hex)(sep)[(dist)[(prod)](prod)](splt)(splt)1(prod)](splt)2
+(raw)(comp)(hex)(mix)<&|(raw)(comp)(hex)&|(mix)<3(hex)<1[(r)1](hex)(r)[(mix)<2(r)(prod)](r)2(splt)(r)(comp)(hex)(r)[(v)(prod)](splt)3
